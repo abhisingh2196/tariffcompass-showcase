@@ -83,6 +83,19 @@ The project combines product judgment, structured data design, iterative testing
 
 **Active development and testing.** The production application remains in a controlled pre-launch environment while product, data-quality, and access controls are tested.
 
+## Privacy and confidentiality notice
+
+This public repository contains only a recruiter-facing project overview and illustrative, non-production code examples created for portfolio use. It does not contain or disclose:
+
+- customer, user, or other personal information;
+- credentials, access tokens, environment variables, or private deployment links;
+- production application source code or proprietary tariff logic;
+- internal prompts, database records, infrastructure configuration, or security details;
+- pricing figures, revenue targets, fundraising information, or commercial strategy; or
+- internal roadmaps, launch plans, marketing plans, or unpublished operating documents.
+
+The sample files demonstrate general data-provenance and quality-checking concepts only. They cannot be used to access or reconstruct the production application.
+
 ## Portfolio note
 
 This case study describes my role and the product's public-safe design principles. It does not provide tariff, customs, legal, or financial advice, and it does not represent a production release.
