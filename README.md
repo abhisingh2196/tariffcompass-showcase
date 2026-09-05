@@ -29,7 +29,7 @@ The product is being developed around:
 
 **Co-founder | 2026-Present**
 
-I share ownership of product strategy, pricing, and the data-sourcing methodology. My contributions include:
+I share ownership of product strategy and the data-sourcing methodology. My contributions include:
 
 - shaping the product concept, target workflows, and prioritization decisions;
 - contributing to experience design and translating complex trade information into clearer user journeys;
