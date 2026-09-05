@@ -60,6 +60,15 @@ AI-generated briefs are intended to explain the structured information supplied 
 - Anthropic API for grounded decision briefs
 - Automated testing and quality-review workflows
 
+## Illustrative code samples
+
+This showcase includes two small, non-production TypeScript examples:
+
+- [`examples/provenance-model.ts`](examples/provenance-model.ts) demonstrates a generic structure for attaching source, confidence, and review metadata to a published figure.
+- [`examples/quality-checks.ts`](examples/quality-checks.ts) demonstrates simple validation checks for that metadata.
+
+The examples were written specifically for this portfolio repository. They do not contain production source code, proprietary tariff logic, internal prompts, database details, credentials, customer data, or unpublished commercial information.
+
 ## Development approach
 
 The project combines product judgment, structured data design, iterative testing, and AI-assisted development. Work is organized around small testable increments, with particular attention to:
@@ -77,4 +86,3 @@ The project combines product judgment, structured data design, iterative testing
 ## Portfolio note
 
 This case study describes my role and the product's public-safe design principles. It does not provide tariff, customs, legal, or financial advice, and it does not represent a production release.
-
